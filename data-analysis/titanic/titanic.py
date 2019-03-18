@@ -75,7 +75,7 @@ print(u'score 准确率为 %.4lf' % acc_decision_tree)
 import numpy as np
 from sklearn.model_selection import cross_val_score
 # 使用 K 折交叉验证 统计决策树准确率
-print(u'cross_val_score 准确率为 %.4lf' % np.mean(cross_val_score(clf, train_features, train_labels, cv=10)))
+print(u'cross_val_score 准确率为 %.4lf' % np.mean(cross_val_score(clf, train_features, train_labels, cv=5)))
 
 # # 决策树可视化，需要安装graphviz
 # from sklearn import tree
