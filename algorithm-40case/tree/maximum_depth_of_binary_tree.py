@@ -17,7 +17,7 @@ class Solution:
         if not root: return 0
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
 
-    # dfs
+    # bfs
     def maxDepth2(self, root):
         if not root: return 0
         q = collections.deque([(root, 1)])
