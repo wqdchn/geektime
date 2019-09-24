@@ -130,6 +130,7 @@
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_String_Chain.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_string_chain.py)|Medium|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Sum_of_Left_Leaves.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/sum_of_left_leaves.py)|Easy|
 
 ### 数据分析实战45讲
 
