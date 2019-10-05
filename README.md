@@ -134,6 +134,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Sum_of_Left_Leaves.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/sum_of_left_leaves.py)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Find_the_Difference.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/find_the_difference.py)|Easy|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Trapping_Rain_Water.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/trapping_rain_water.py)|Hard|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_Substring_Without_Repeating_Characters.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_substring_without_repeating_characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Add_Two_Numbers.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_two_numbers.py)|Medium|
 
 ### 数据分析实战45讲
