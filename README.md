@@ -10,6 +10,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Reverse_Linked_List.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/reverse_linked_list.py)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Linked_list_cycle.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/linked_list_cycle.py)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Swap_nodes_in_pairs.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/swap_nodes_in_pairs.py)|Medium|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Duplicates_from_Sorted_Array.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_duplicates_from_sorted_array.py)|Easy|
 
 #### 堆栈与队列
 
