@@ -7,7 +7,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Reverse_Linked_List.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/reverse_linked_list.py)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Reverse_Linked_List.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/reverse_linked_list.py)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Linked_list_cycle.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/linked_list_cycle.py)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Swap_nodes_in_pairs.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/swap_nodes_in_pairs.py)|Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Linked_List_Elements.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_linked_list_elements.py)|Easy|
@@ -148,7 +148,9 @@
 
 ### 数据分析实战45讲
 
-略T_T
+| # | Title | Solution |
+|----| ----- | -------- |
+|决策树|[Iris鸢尾花数据](https://en.wikipedia.org/wiki/Iris_flower_data_set) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree-iris.R)|
 
 ### 零基础学Python
 
