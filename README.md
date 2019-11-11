@@ -150,8 +150,9 @@
 
 | # | Title | Solution |
 |----| ----- | -------- |
-|决策树|[Iris鸢尾花数据](https://en.wikipedia.org/wiki/Iris_flower_data_set) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-iris.R)|
-|决策树|[Titanic泰坦尼克数据集](https://www.kaggle.com/c/titanic) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-titanic.R)|
+|决策树|[Iris鸢尾花数据集](https://en.wikipedia.org/wiki/Iris_flower_data_set) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-iris.R)|
+|决策树|[Titanic泰坦尼克数据集](https://www.kaggle.com/c/titanic) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-titanic.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/titanic-survival-pred/titanic-survival-pred.ipynb)|
+|支持向量机|[BreastCancer乳腺癌数据集](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/support-vector-machine/svm-breastcancer.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/breast-cancer-svm/breast-cancer-svm.ipynb)|
 
 ### 零基础学Python
 
