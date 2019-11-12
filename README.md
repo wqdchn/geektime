@@ -154,6 +154,7 @@
 |决策树|[Titanic泰坦尼克数据集](https://www.kaggle.com/c/titanic) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-titanic.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/titanic-survival-pred/titanic-survival-pred.ipynb)|
 |支持向量机|[BreastCancer乳腺癌数据集](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/support-vector-machine/svm-breastcancer.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/breast-cancer-svm/breast-cancer-svm.ipynb)|
 |K近邻|[Pima糖尿病数据集](https://www.kaggle.com/uciml/pima-indians-diabetes-database) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-nearest-neighbor/knn-pima.R)|
+|K-Means|[亚洲球队数据集](https://github.com/cystanford/kmeans/blob/master/data.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-means/k-means-football.R)|
 
 ### 零基础学Python
 
