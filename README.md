@@ -156,6 +156,7 @@
 |K近邻|[Pima糖尿病数据集](https://www.kaggle.com/uciml/pima-indians-diabetes-database) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-nearest-neighbor/knn-pima.R)|
 |K-Means|[亚洲球队数据集](https://github.com/cystanford/kmeans/blob/master/data.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-means/k-means-football.R)|
 |EM聚类|[王者荣耀英雄数据集](https://github.com/cystanford/EM_data/blob/master/heros.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/expectation-maximization/em-heros.R)|
+|AdaBoost|[BostonHousing波士顿房价数据集](https://www.kaggle.com/c/boston-housing) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/adaboost/adaboost-boston.R)|
 
 ### 零基础学Python
 
