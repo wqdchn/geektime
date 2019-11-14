@@ -157,7 +157,8 @@
 |K-Means|[亚洲球队数据集](https://github.com/cystanford/kmeans/blob/master/data.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-means/k-means-football.R)|
 |EM聚类|[王者荣耀英雄数据集](https://github.com/cystanford/EM_data/blob/master/heros.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/expectation-maximization/em-heros.R)|
 |AdaBoost|[BostonHousing波士顿房价数据集](https://www.kaggle.com/c/boston-housing) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/adaboost/adaboost-boston.R)|
-
+|随机森林|[CreditCardDefault信用卡违约数据集](https://github.com/cystanford/credit_default) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/random-forest/rf_credit_card1.R)|
+|逻辑回归|[EmployeeAttrition员工流失数据集](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/logistic-regression/lr-churn-split.R)|
 ### 零基础学Python
 
 略T_T
