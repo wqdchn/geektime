@@ -48,6 +48,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Maximum_Depth_of_Binary_Tree.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/maximum_depth_of_binary_tree.py)|Easy|
 |102|[Binary Tree Level Order Traversa](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Binary_Tree_Level_Order_Traversal.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/binary_tree_level_order_traversal.py)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Vakudate_binary_search_tree.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/validate_binary_search_tree.py)|Medium|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/construct_string_from_binary_tree.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/construct_string_from_binary_tree.py)|Easy|
 
 #### 分治、递归
 
