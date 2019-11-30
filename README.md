@@ -129,7 +129,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
-|---|[Fib](https://en.wikipedia.org/wiki/Fibonacci_sequence) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/fib.py)|----------|
+|509|[Fib](https://leetcode.com/problems/fibonacci-number/) |  [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/fibonacci_number.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/fib.py)|Easy|
 
 #### LeetCode课外练习
 | # | Title | Solution | Difficulty |

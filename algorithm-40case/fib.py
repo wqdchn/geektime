@@ -33,10 +33,9 @@ class Fib:
     # a2 = -1/sqrt(5), b2 = (1-sqrt(5))/2
     def fib_fun(self, n):
         a1 = 1 / math.sqrt(5)
-        a2 = -1 / math.sqrt(5)
         b1 = (1 + math.sqrt(5)) / 2
         b2 = (1 - math.sqrt(5)) / 2
-        return int(a1 * math.pow(b1, n) + a2 * math.pow(b2, n))
+        return int(a1 * (math.pow(b1, n) - math.pow(b2, n)))
 
     def fib_fun2(self, n):
         def fib_fun2_pow(a, n):
@@ -49,10 +48,9 @@ class Fib:
             return fib_fun2_pow(a * a, n / 2)
 
         a1 = 1 / math.sqrt(5)
-        a2 = -1 / math.sqrt(5)
         b1 = (1 + math.sqrt(5)) / 2
         b2 = (1 - math.sqrt(5)) / 2
-        return int(a1 * fib_fun2_pow(b1, n) + a2 * fib_fun2_pow(b2, n))
+        return int(a1 * (fib_fun2_pow(b1, n) - fib_fun2_pow(b2, n)))
 
     # 矩阵
     def fib_matrix(self, n):
@@ -62,7 +60,7 @@ class Fib:
 
 
 f = Fib()
-n = 15
+n = 2
 print(f.fib_recur(n))
 
 print(f.fib_loop(n))
