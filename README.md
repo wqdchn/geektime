@@ -113,6 +113,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Triangle.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/dp/triangle.py)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Edit_Distance.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/dp/edit_distance.py)|Hard|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Climbing_Stairs.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/dp/climbing_stairs.py)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/maximum_subarray.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/maximum_subarray.py)|Easy|
 
 #### 并查集
 
