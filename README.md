@@ -152,6 +152,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/hard/Median_of_Two_Sorted_Arrays.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/median_of_two_sorted_arrays.py)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_Substring_Without_Repeating_Characters.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_substring_without_repeating_characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Add_Two_Numbers.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_two_numbers.py)|Medium|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/add_binary.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_binary.py)|Easy|
 
 ### 数据分析实战45讲
 
