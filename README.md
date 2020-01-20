@@ -14,6 +14,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Element.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Duplicates_from_Sorted_Array.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_duplicates_from_sorted_array.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Container_With_Most_Water.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/container_with_most_water.py)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/remove_duplicates_from_sorted_list.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/array-linkedlist/remove_duplicates_from_sorted_list.py)|Easy|
 
 #### 堆栈与队列
 
