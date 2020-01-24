@@ -14,7 +14,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Element.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_element.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Remove_Duplicates_from_Sorted_Array.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_duplicates_from_sorted_array.py)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Container_With_Most_Water.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/container_with_most_water.py)|Medium|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/remove_duplicates_from_sorted_list.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/array-linkedlist/remove_duplicates_from_sorted_list.py)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/remove_duplicates_from_sorted_list.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/array-linkedlist/remove_duplicates_from_sorted_list.py)|Easy|
 
 #### 堆栈与队列
 
@@ -155,6 +155,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_Substring_Without_Repeating_Characters.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_substring_without_repeating_characters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Add_Two_Numbers.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_two_numbers.py)|Medium|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/add_binary.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/add_binary.py)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/length_of_last_word.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/length_of_last_word.py)|Easy|
 
 ### 数据分析实战45讲
 
