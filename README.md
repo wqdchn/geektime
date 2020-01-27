@@ -54,6 +54,7 @@
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/construct_string_from_binary_tree.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/construct_string_from_binary_tree.py)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/path_sum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/path_sum.py)|Easy|
 |107|[Binary Tree Level Order Traversall II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/binary_tree_level_order_traversal_ii.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/binary_tree_level_order_traversal_ii.py)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/same_tree.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/tree/same_tree.py)|Easy|
 
 #### 分治、递归
 
