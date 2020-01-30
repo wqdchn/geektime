@@ -40,6 +40,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/TwoSum.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum.py)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/two_sum_ii.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum_ii.py)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/two_sum_iv.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/two_sum_iv.py)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/single_number.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/hash_table/single_number.py)|Easy|
 
 #### 树、二叉树、二叉搜索树
 
