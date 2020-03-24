@@ -187,3 +187,7 @@
 #### 数组
 
 - [实现一个支持动态扩容的数组](https://github.com/wqdchn/geektime/blob/master/algo/05_array/GenericArray.java)
+
+#### 链表
+
+- [判断一个用单链表存储的字符串是否是回文字符串](https://github.com/wqdchn/geektime/blob/master/algo/06_linkedlist/PalindromeLinkedList.java)
