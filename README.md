@@ -181,3 +181,9 @@
 ### 零基础学Python
 
 略T_T
+
+### 数据结构与算法之美
+
+#### 数组
+
+- [实现一个支持动态扩容的数组](https://github.com/wqdchn/geektime/blob/master/algo/05_array/GenericArray.java)
