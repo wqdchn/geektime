@@ -197,3 +197,7 @@
 
 - [数组实现的顺序栈](https://github.com/wqdchn/geektime/blob/master/algo/08_stack/ArrayStack.java)
 - [单链表实现的链式栈](https://github.com/wqdchn/geektime/blob/master/algo/08_stack/LinkedListStack.java)
+
+#### 队列
+
+- [数组实现的顺序队列](https://github.com/wqdchn/geektime/blob/master/algo/09_queue/ArrayQueue.java)
