@@ -192,3 +192,7 @@
 
 - [判断一个用单链表存储的字符串是否是回文字符串](https://github.com/wqdchn/geektime/blob/master/algo/06_linkedlist/PalindromeLinkedList.java)
 - [单链表实现一个LRU缓存算法](https://github.com/wqdchn/geektime/blob/master/algo/06_linkedlist/LRULinkedList.java)
+
+#### 栈
+
+- [数组实现的顺序栈](https://github.com/wqdchn/geektime/blob/master/algo/08_stack/ArrayStack.java)
