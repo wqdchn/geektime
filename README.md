@@ -201,3 +201,4 @@
 #### 队列
 
 - [数组实现的顺序队列](https://github.com/wqdchn/geektime/blob/master/algo/09_queue/ArrayQueue.java)
+- [单链表实现的链式队列](https://github.com/wqdchn/geektime/blob/master/algo/09_queue/LinkedListQueue.java)
