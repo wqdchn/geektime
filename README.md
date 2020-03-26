@@ -196,3 +196,4 @@
 #### 栈
 
 - [数组实现的顺序栈](https://github.com/wqdchn/geektime/blob/master/algo/08_stack/ArrayStack.java)
+- [单链表实现的链式栈](https://github.com/wqdchn/geektime/blob/master/algo/08_stack/LinkedListStack.java)
