@@ -167,14 +167,14 @@
 
 ### 数据分析实战45讲
 
-| # | Title | Solution |
+| Title | Data | Solution |
 |----| ----- | -------- |
 |决策树|[Iris鸢尾花数据集](https://en.wikipedia.org/wiki/Iris_flower_data_set) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-iris.R)|
 |决策树|[Titanic泰坦尼克数据集](https://www.kaggle.com/c/titanic) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/decision-tree/decision-tree-titanic.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/titanic-survival-pred/titanic-survival-pred.ipynb)|
 |支持向量机|[BreastCancer乳腺癌数据集](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/support-vector-machine/svm-breastcancer.R), [Jupyter Notebook](https://github.com/wqdchn/geektime/blob/master/data-analysis/breast-cancer-svm/breast-cancer-svm.ipynb)|
 |K近邻|[Pima糖尿病数据集](https://www.kaggle.com/uciml/pima-indians-diabetes-database) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-nearest-neighbor/knn-pima.R)|
 |K-Means|[亚洲球队数据集](https://github.com/cystanford/kmeans/blob/master/data.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-means/k-means-football.R), [Python](https://github.com/wqdchn/geektime/blob/master/data-analysis/k-means/k_means_football.py)|
-|EM聚类|[王者荣耀英雄数据集](https://github.com/cystanford/EM_data/blob/master/heros.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/expectation-maximization/em-heros.R)|
+|EM聚类|[王者荣耀英雄数据集](https://github.com/cystanford/EM_data/blob/master/heros.csv) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/expectation-maximization/em-heros.R), [Python](https://github.com/wqdchn/geektime/blob/master/data-analysis/expectation-maximization/em_heros.py)|
 |AdaBoost|[BostonHousing波士顿房价数据集](https://www.kaggle.com/c/boston-housing) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/adaboost/adaboost-boston.R)|
 |随机森林|[CreditCardDefault信用卡违约数据集](https://github.com/cystanford/credit_default) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/random-forest/rf_credit_card1.R)|
 |逻辑回归|[EmployeeAttrition员工流失数据集](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) | [R](https://github.com/wqdchn/geektime/blob/master/data-analysis/logistic-regression/lr-churn-split.R)|
