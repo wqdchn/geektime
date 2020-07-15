@@ -64,6 +64,7 @@
 
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/n_th_tribonacci_number.py)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Majority_Element.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/majority_element.py)|Easy|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Pow.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/pow.py)|Medium|
 
