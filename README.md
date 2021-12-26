@@ -147,6 +147,7 @@
 | # | Title | Solution | Difficulty |
 |----| ----- | -------- | ---------- |
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/medium/Longest_String_Chain.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/longest_string_chain.py)|Medium|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/binary_prefix_divisible_by_5.py)|Easy|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Number_of_lines_to_write_string.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/number_of_lines_to_write_string.py)|Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Sum_of_Left_Leaves.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/sum_of_left_leaves.py)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](https://github.com/wqdchn/leetcode/blob/master/src/easy/Find_the_Difference.java), [Python](https://github.com/wqdchn/geektime/blob/master/algorithm-40case/leetcode_exercise/find_the_difference.py)|Easy|
